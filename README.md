@@ -1,19 +1,26 @@
 # Hi, I’m Zubair Razzaq 👋
 
-A passionate developer who enjoys building clean, modern, and user-friendly digital experiences.
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Web+Developer;UI%2FUX+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Web+Designer;Problem+Solver;Code+%7C+Create+%7C+Improve" alt="Typing SVG" />
 </p>
 
-## About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-%F0%9F%92%BB-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-green?style=for-the-badge" />
+</p>
 
-- 💻 Frontend and full-stack developer
-- 🎯 Focused on responsive and elegant user interfaces
-- 🚀 Learning new technologies and improving my skills
-- 📍 Based in Pakistan
+A passionate developer focused on crafting elegant, efficient, and user-friendly digital experiences.
 
-## Tech Stack
+## 🚀 About Me
+
+- 💻 Full-stack and frontend web developer
+- 🎨 Interested in modern UI/UX and clean interfaces
+- 🔧 Building practical solutions with performance in mind
+- 📚 Constantly learning and improving every day
+- 🤝 Open to collaboration and meaningful opportunities
+
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -25,27 +32,28 @@ A passionate developer who enjoys building clean, modern, and user-friendly digi
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## GitHub Highlights
+## ✨ Highlights
 
-- 🔥 Building modern web interfaces
-- 🧩 Creating practical and useful solutions
-- 📈 Improving project structure and code quality
-- 🤝 Open to collaboration and learning opportunities
+- 🔥 Building modern and responsive web experiences
+- 🧩 Turning ideas into practical products
+- 📈 Improving code quality and project structure
+- 🤝 Enjoying learning, collaboration, and growth
 
-## Connect With Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zubairrazzaq555-commits&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubairrazzaq555-commits&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180" />
+</p>
+
+## 🌐 Connect With Me
 
 - GitHub: [zubairrazzaq555-commits](https://github.com/zubairrazzaq555-commits)
 - Email: zubairrazzaq555@gmail.com
-
-## Profile Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zubairrazzaq555-commits&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zubairrazzaq555-commits&label=PROFILE+VIEWS&color=brightgreen" alt="Profile views" />
 </p>
 
-> This repository is the GitHub profile repo, designed to render nicely on my profile page.
+> This repository is optimized for GitHub profile rendering and gives a cleaner, more professional look on my profile page.
 
