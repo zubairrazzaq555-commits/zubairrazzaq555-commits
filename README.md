@@ -1,21 +1,39 @@
-# Zubair Razzaq
+# Hi, I'm Zubair Razzaq 👋
 
-This repository contains a custom GitHub Pages profile landing page.
+I am a passionate developer focused on building modern, user-friendly digital experiences.
 
-## Why this was not showing correctly
+## About Me
 
-GitHub profile README files can display simple Markdown and limited HTML, but they do not fully support custom CSS styling the way a normal HTML page does. For a styled profile, the correct approach is to serve a real page through GitHub Pages.
+- 💻 Frontend and full-stack web developer
+- 🎯 Interested in clean UI, responsive design, and smooth user experiences
+- 🚀 Always learning new technologies and improving my skills
+- 📍 Based in Pakistan
 
-## How to enable GitHub Pages
+## Tech Stack
 
-1. Open the repository settings on GitHub.
-2. Go to Pages.
-3. Select the main branch and root folder.
-4. Save the settings.
-5. Your page will be live at:
-   `https://zubairrazzaq555-commits.github.io/`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Live page
+## GitHub Highlights
 
-The homepage is included in the project root and is designed to render as a clean personal profile page.
+- 🔥 Building modern web interfaces
+- 🧩 Creating practical and efficient solutions
+- 📈 Improving code quality and project structure
+- 🤝 Open to collaboration and learning opportunities
+
+## Connect With Me
+
+- GitHub: [zubairrazzaq555-commits](https://github.com/zubairrazzaq555-commits)
+- Email: zubairrazzaq555@gmail.com
+
+## Profile Status
+
+![Profile Views](https://komarev.com/ghpvc/?username=zubairrazzaq555-commits&label=PROFILE+VIEWS&color=brightgreen)
+
+> This repository is the GitHub profile repo, so it is optimized for GitHub profile rendering.
 
