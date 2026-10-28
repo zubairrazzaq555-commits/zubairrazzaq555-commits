@@ -1,30 +1,37 @@
 <div align="center">
 
-# 👋 Hi, I'm Zubair Ahmad
+# Zubair Ahmad
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=AI+Developer;Agentic+AI+Enthusiast;Generative+AI+%7C+Data+Science;Building+Practical+AI+Systems" alt="AI Developer · Agentic AI Enthusiast · Generative AI & Data Science" />
-</p>
+### AI Developer · Agentic AI Enthusiast · Generative AI & Data Science
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20Developer-Building%20Practical%20Systems-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="AI Developer building practical systems" />
-  <img src="https://img.shields.io/badge/FOCUS-MULTI--AGENT%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Focus: Multi-Agent AI" />
-  <img src="https://img.shields.io/badge/LOCATION-PAKISTAN-35A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Pakistan" />
-</p>
+[GitHub](https://www.google.com/search?q=https://github.com/zubairrazzaq555-commits)
 
-**AI Developer** · **Agentic AI Enthusiast** · **Generative AI & Data Science**
+<img src="assets/sparkles.svg" alt="Animated AI sparkles" />
+
+`ABOUT ME` · `CURRENT FOCUS` · `AI JOURNEY` · `SKILLS & TECHNOLOGIES` · `EXPLORING` · `CHINESE AI ECOSYSTEM` · `LET'S CONNECT` · `CONTACT` · `PHILOSOPHY`
 
 </div>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/wave-light.svg"><img src="assets/wave-light.svg" width="100%" alt="Animated section divider" /></picture>
 
 ## 🧑‍💻 About Me
 
-I'm a self-taught AI developer from Pakistan, passionate about building practical AI systems and exploring the future of Generative AI, Agentic AI, Large Language Models, and intelligent software systems.
+```
+> whoami
+Zubair Ahmad · Self-Taught AI Developer from Pakistan 🇵🇰
+Identity : AI Developer | Agentic AI Enthusiast | Generative AI & Data Science
+Focus    : Multi-Agent AI Systems · AI Agent Architecture · LLMs · RAG
+Motto    : Build → Experiment → Learn → Improve → Share
 
-My journey started with programming and gradually moved through Machine Learning, Deep Learning, Generative AI, RAG Systems, AI Agents, Multi-Agent Systems, and Agentic AI.
+```
+
+I'm a self-taught AI developer from Pakistan, passionate about building practical AI systems and exploring the future of **Generative AI**, **Agentic AI**, **Large Language Models**, and **intelligent software systems**.
+
+My journey started with programming and gradually moved through **Machine Learning**, **Deep Learning**, **Generative AI**, **RAG Systems**, **AI Agents**, **Multi-Agent Systems**, and **Agentic AI**.
 
 I enjoy learning by building, experimenting with emerging technologies, and understanding how modern AI systems work under the hood.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/wave-light.svg"><img src="assets/wave-light.svg" width="100%" alt="Animated section divider" /></picture>
 
 ## ⚡ What I'm Currently Focused On
 
@@ -34,88 +41,89 @@ I'm exploring how multiple AI agents can work together to solve complex tasks, c
 
 I'm particularly interested in understanding how Large Language Models can be combined with different AI components and software logic to build practical, scalable, and intelligent systems.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-8A2BE2?style=flat-square" alt="Multi-Agent Systems" />
-  <img src="https://img.shields.io/badge/AI%20Agent%20Architecture-6C63FF?style=flat-square" alt="AI Agent Architecture" />
-  <img src="https://img.shields.io/badge/Agent%20Orchestration-00A6A6?style=flat-square" alt="Agent Orchestration" />
-  <img src="https://img.shields.io/badge/LLM--powered%20Applications-00C2FF?style=flat-square" alt="LLM-powered Applications" />
-  <img src="https://img.shields.io/badge/Intelligent%20Workflows-EC4899?style=flat-square" alt="Intelligent Workflows" />
-  <img src="https://img.shields.io/badge/AI%20System%20Design-333333?style=flat-square" alt="AI System Design" />
-</p>
-
-## 🧠 My AI Journey
+### Current Focus Areas
 
 <div align="center">
 
-**Programming**<br/>
-↓<br/>
-**Python**<br/>
-↓<br/>
-**Machine Learning**<br/>
-↓<br/>
-**Deep Learning**<br/>
-↓<br/>
-**Generative AI**<br/>
-↓<br/>
-**RAG Systems**<br/>
-↓<br/>
-**AI Agents**<br/>
-↓<br/>
-**Multi-Agent Systems**<br/>
-↓<br/>
-**Agentic AI**
+| 🤖 Multi-Agent Systems | 🏗️ AI Agent Architecture | 🔄 Agent Orchestration | 
+| ----- | ----- | ----- | 
+| **🧠 LLM-powered Applications** | **⚙️ Intelligent Workflows** | **📐 AI System Design** | 
 
 </div>
 
-My goal is not just to use AI, but to understand how intelligent AI systems are designed, engineered, and connected together.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/wave-light.svg"><img src="assets/wave-light.svg" width="100%" alt="Animated section divider" /></picture>
 
-## 🛠️ Skills & Technologies
+## 🧭 My AI Journey
 
-<details>
-<summary><b>Programming & Data</b></summary>
+<div align="center">
 
-Python · Pandas · NumPy · Matplotlib · Seaborn · SQL · Statistics · Hypothesis Testing
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+↓
+
+</div>
+
+> My goal is not just to use AI, but to understand how intelligent AI systems are designed, engineered, and connected together.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/wave-light.svg"><img src="assets/wave-light.svg" width="100%" alt="Animated section divider" /></picture>
+
+## 🪐 Skills & Technologies
+
+<details open>
+<summary><b>Explore my technical stack and areas of focus</b></summary>
+
+### 🐍 Programming & Data
+
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `SQL` · `Statistics` · `Hypothesis Testing`
+
+### 🧠 Machine Learning & Deep Learning
+
+`Machine Learning` · `Deep Learning` · `Scikit-learn` · `Model Evaluation` · `Data Analysis`
+
+### ✨ Generative AI & LLMs
+
+`Generative AI` · `Large Language Models (LLMs)` · `Small Language Models (SLMs)` · `Prompt Engineering` · `OpenAI API` · `Hugging Face`
+
+### 📚 RAG & Knowledge Systems
+
+`Retrieval-Augmented Generation (RAG)` · `Embeddings` · `Vector Databases` · `ChromaDB` · `Pinecone` · `Semantic Search` · `Ollama`
+
+### 🤖 Agentic AI
+
+`AI Agents` · `Multi-Agent Systems` · `Agentic AI` · `LangChain` · `LangGraph` · `LangChain RAG Systems` · `Agent Orchestration` · `Tool Calling` · `Agent Workflows` · `State-based AI Systems`
+
+### 🏗️ AI System Architecture
+
+`LLM Orchestration` · `AI Model Routing` · `AI Workflows` · `Intelligent Automation` · `AI-powered Applications`
 
 </details>
 
-<details>
-<summary><b>Machine Learning & Deep Learning</b></summary>
-
-Machine Learning · Deep Learning · Scikit-learn · Model Evaluation · Data Analysis
-
-</details>
-
-<details>
-<summary><b>Generative AI & LLMs</b></summary>
-
-Generative AI · Large Language Models (LLMs) · Small Language Models (SLMs) · Prompt Engineering · OpenAI API · Hugging Face
-
-</details>
-
-<details>
-<summary><b>RAG & Knowledge Systems</b></summary>
-
-Retrieval-Augmented Generation (RAG) · Embeddings · Vector Databases · ChromaDB · Pinecone · Semantic Search · Ollama
-
-</details>
-
-<details>
-<summary><b>Agentic AI</b></summary>
-
-AI Agents · Multi-Agent Systems · Agentic AI · LangChain · LangGraph · LangChain RAG Systems · Agent Orchestration · Tool Calling · Agent Workflows · State-based AI Systems
-
-</details>
-
-<details>
-<summary><b>AI System Architecture</b></summary>
-
-LLM Orchestration · AI Model Routing · AI Workflows · Intelligent Automation · AI-powered Applications
-
-</details>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/wave-light.svg"><img src="assets/wave-light.svg" width="100%" alt="Animated section divider" /></picture>
 
 ## 🔭 Areas I'm Exploring
 
-Multi-Agent AI Systems · Agentic AI · AI Agent Architecture · LLM Orchestration · RAG · AI Memory · LLM Applications · Local AI · AI Automation · Cost-efficient AI Systems · AI-powered SaaS · Human-AI Collaboration
+<div align="center">
+
+| Multi-Agent AI Systems | Agentic AI | AI Agent Architecture | LLM Orchestration | 
+| ----- | ----- | ----- | ----- | 
+| **RAG** | **AI Memory** | **LLM Applications** | **Local AI** | 
+| **AI Automation** | **Cost-efficient AI Systems** | **AI-powered SaaS** | **Human-AI Collaboration** | 
+
+</div>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/wave-light.svg"><img src="assets/wave-light.svg" width="100%" alt="Animated section divider" /></picture>
 
 ## 🌏 Chinese AI Ecosystem
 
@@ -125,29 +133,52 @@ I'm particularly interested in China's rapidly growing AI ecosystem and opportun
 
 I'm actively exploring Chinese developer communities and learning more about the ecosystem around AI and open-source development.
 
-## 🤝 Let's Connect
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/wave-light.svg"><img src="assets/wave-light.svg" width="100%" alt="Animated section divider" /></picture>
+
+<div align="center">
+
+## 🔗 Let's Connect
 
 I'm open to:
 
-- AI/ML collaborations
-- Open-source projects
-- Agentic AI collaborations
-- AI research and experimentation
-- Developer collaborations
-- China–Pakistan technology collaboration
-- AI product ideas
-- Project-based opportunities
+| 🤝 Collaborations & Research | 🚀 Projects & Opportunities | 
+| ----- | ----- | 
+| `AI/ML collaborations` | `Developer collaborations` | 
+| `Open-source projects` | `China–Pakistan technology collaboration` | 
+| `Agentic AI collaborations` | `AI product ideas` | 
+| `AI research and experimentation` | `Project-based opportunities` | 
 
-If you're working on something interesting in AI, Agentic AI, LLMs, RAG, or Multi-Agent Systems, feel free to connect with me.
+If you're working on something interesting in **AI**, **Agentic AI**, **LLMs**, **RAG**, or **Multi-Agent Systems**, feel free to connect with me.
 
-## 📫 Contact
+</div>
 
-- **GitHub:** [zubairrazzaq555-commits](https://github.com/zubairrazzaq555-commits)
-- **Location:** Pakistan 🇵🇰
-- **Interests:** AI · Agentic AI · Multi-Agent Systems · LLMs · RAG · Generative AI · Data Science
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/wave-light.svg"><img src="assets/wave-light.svg" width="100%" alt="Animated section divider" /></picture>
+
+<div align="center">
+
+## 📬 Contact
+
+<a href="https://github.com/zubairrazzaq555-commits"><img src="https://img.shields.io/badge/GitHub-zubairrazzaq555--commits-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: zubairrazzaq555-commits" /></a>
+<img src="https://img.shields.io/badge/Location-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-06b6d4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Pakistan" />
+
+**GitHub:** [zubairrazzaq555-commits](https://www.google.com/search?q=https://github.com/zubairrazzaq555-commits) · **Location:** Pakistan 🇵🇰
+
+**Interests**
+
+AI • Agentic AI • Multi-Agent Systems • LLMs • RAG • Generative AI • Data Science
+
+</div>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/wave-light.svg"><img src="assets/wave-light.svg" width="100%" alt="Animated section divider" /></picture>
+
+<div align="center">
 
 ## ✦ My Philosophy
 
 > “I don't just want to use AI. I want to understand how intelligent systems are built.”
 
-<p align="center"><b>Build → Experiment → Learn → Improve → Share</b></p>
+**Build → Experiment → Learn → Improve → Share**
+
+<img src="assets/sparkles.svg" alt="Animated AI sparkles" />
+
+</div>
